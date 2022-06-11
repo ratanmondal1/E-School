@@ -1,0 +1,110 @@
+/* coustom css start */
+
+body{
+
+	font-family:"poppins";
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000;s
+
+
+}
+/* font start */
+ @font-face {
+ 	font-family:"poppins";
+ 	src: url('../font/Poppins/Poppins-Regular.ttf');
+
+ }
+  @font-face {
+ 	font-family:"poppins";
+ 	src: url('../font/Poppins/Poppins-Bold.ttf');
+
+ }
+  @font-face {
+ 	font-family:"poppins";
+ 	src: url('../font/Poppins/Poppins-Medium.ttf');
+
+ }
+  @font-face {
+ 	font-family:"Roboto";
+ 	src: url('../font/Roboto/Roboto-Regular.ttf');
+
+ }
+/* font end */
+
+/* coustom css end*/
+header{
+	background-color: #F0FFF0;
+	padding: 5px 0;
+}
+.c_nav{
+	
+}
+.menu{}
+
+.menu ul li a{
+	line-height: 24px;
+	padding: 0 24px !important;
+    color: #000000 !important;
+    text-transform: capitalize;
+}
+
+.menu ul li a:hover{
+	color: #FD511A !important;
+}
+
+
+
+.c-signin{
+
+font-family: 'Roboto';
+font-weight: 400;
+color:white;
+padding: 12px 28px;
+background: #21B573;
+border: none;
+border-radius: 33px;
+
+}
+.c-signin:hover{
+	background-color:#FD511A;
+	color: white;
+}
+
+/* bannar start */
+.bannar{
+	background-color: #F0FFF0;
+	padding: 35px 0 65px;
+}
+.b_text{}
+
+.p_red{
+line-height: 24px;
+color: #FD511A;
+}
+
+.b_h1{
+margin: 10px 0 20px;
+font-weight: 700;
+font-size: 62px;
+line-height: 70px;
+color: #000000;
+
+}
+.b_h1 span{
+	color: #21B573;
+
+}
+.p_black{
+
+line-height: 36px;
+color: #6C6B6B;
+}
+.b_button{
+	margin-top: 15px;
+	width: 153px;
+}
+.bn_img{
+	
+}
+/* bannar end */
